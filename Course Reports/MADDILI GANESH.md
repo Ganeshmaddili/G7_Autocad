@@ -11,7 +11,7 @@ c<!-- PROJECT LOGO -->
 
 # Course Report
 
-## Name: DONTHAMSETTI N V V SAI SURYA MANIKANTA
+## Name: MADDILI GANESH
 
 
 ## Qualifications: Pursuing B.Tech final Year in Mechanical Engineering
@@ -25,5 +25,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Drill Jig , Gear Pump , Crane Hook    | [Click Here](https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Manikanta)                        |
-| Final Project: Crane Hook , Steam Engine     | [Click Here](https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Manikanta/Steam%20engine%20Assemble)                         |
+| Mini Projects: Ship,apple ICON symbol,Gas Stove,Tool Kit   | [Click Here](https://github.com/Ganeshmaddili/G7_Autocad/tree/main/Mini%20Projects/ganesh%202912)                        |
+| Final Project:Universal Joint,Banch Vice,Agri Sprayer Seed  | [Click Here](https://github.com/Ganeshmaddili/G7_Autocad/tree/main/Final%20Project/ganesh%202912)                         |
