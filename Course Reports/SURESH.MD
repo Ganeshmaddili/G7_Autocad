@@ -11,7 +11,7 @@
 
 # Course Report
 
-## Name: Haribabu Kanchi
+## Name: SURESH KUMAR PILLI
 
 ## Qualifications: B-Tech Final Year
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Knuckle joint, Cannon Barrel, Arbor Press     | [Click here](https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Kanchi%20Haribabu)                         |
-| Final Project: Mini Injection Molding     | [Click here](https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Kanchi%20Haribabu)                         |
+| Mini Projects: Shock Asorber, Bench Vice, Bush Type Flexible Coupling.    | [Click here](https://github.com/sure-trust/G7_Autocad/tree/main/Mini%20Projects/Suresh/Mini%20Projects)                         |
+| Final Project: Portable Clay Air Cooler, JCB Excavator Orthographic Views.    | [Click here](https://github.com/sure-trust/G7_Autocad/tree/main/Final%20Project/Suresh/Major%20Projects)                         |
